@@ -1,4 +1,4 @@
-### Hi there 👋
+### 최영욱 입니다. 👋
 
 <!--
 **00uk/00uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
